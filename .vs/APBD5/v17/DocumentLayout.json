@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|c:\\users\\kacper\\desktop\\szko\u0142a\\semestr6\\apbd\\terazwyjdzie\\DatabaseFirst\\DatabaseFirst\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\models\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\models\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|c:\\users\\kacper\\desktop\\szko\u0142a\\semestr6\\apbd\\terazwyjdzie\\DatabaseFirst\\DatabaseFirst\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\models\\clienttrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\models\\clienttrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\models\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\models\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\models\\countrytrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\models\\countrytrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\models\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\models\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:DatabaseFirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1641,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "DatabaseFirst\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:55:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "DatabaseFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:31:47.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TripContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\TripContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\TripContext.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\TripContext.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\TripContext.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAewJEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:23:11.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "DatabaseFirst\\Controllers\\TripsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:19:06.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TripDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\DTOs\\TripDTO.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\DTOs\\TripDTO.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\DTOs\\TripDTO.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\DTOs\\TripDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:17:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T16:11:15.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\DTOs\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\DTOs\\ClientDTO.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\DTOs\\ClientDTO.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\DTOs\\ClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:14:40.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\DTOs\\CountryDTO.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\DTOs\\CountryDTO.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\DTOs\\CountryDTO.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\DTOs\\CountryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:14:28.542Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 999,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CountryTrip.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\CountryTrip.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\CountryTrip.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\CountryTrip.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\CountryTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:22:46.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\Trip.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\Trip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:16:45.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\Country.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:16:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientTrip.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\ClientTrip.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\ClientTrip.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\ClientTrip.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\ClientTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:16:44.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\DatabaseFirst\\DatabaseFirst\\Models\\Client.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:11:42.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
